@@ -27,3 +27,6 @@ You can further enhance program by adding timer after every Guess
 You can also give hints from the beginning to make the task a bit easier for user
 You can also decrease the chance by one only if the player’s guess is WRONG. If the guess is right, 
 player’s chance is not reduced.
+
+
+%windir%\System32\rundll32.exe powrprof.dll,SetSuspendState Hibernate
